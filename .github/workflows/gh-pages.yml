@@ -23,7 +23,7 @@ jobs:
           hugo-version: '0.85.0'
           extended: true
 
-        name: npm dependencies
+      - name: npm dependencies
         run: npm install themes/terminal
 
       - name: Build
