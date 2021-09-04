@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://chrisbeeley.github.io/amiga_blog/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
