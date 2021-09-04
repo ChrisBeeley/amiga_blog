@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - gh-pages  # Set a branch to deploy
   pull_request:
 
 jobs:
@@ -22,10 +22,6 @@ jobs:
         with:
           hugo-version: '0.85.0'
           # extended: true
-
-      - name: Install npm packages
-        run: |
-          npm install
 
       - name: Build
         run: hugo
