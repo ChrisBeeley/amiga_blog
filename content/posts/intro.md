@@ -1,9 +1,14 @@
----
-title: "Intro and welcome"
-date: 2021-09-04T18:45:00+01:00
-draft: false
----
-
++++
+title = "Intro and welcome"
+date = 2021-09-04T18:45:00+01:00
+author = "Chris Beeley"
+authorTwitter = "chrisbeeley" #do not include @
+cover = ""
+tags = ["amiga", "hardware"]
+description = ""
+showFullContent = false
+draft = false
++++
 Hello! This blog is all about my return to the world of Amiga. I have been clicking occasionally on Amiga stuff that I saw in my Twitter feed and was amazed to see that an Amiga print magazine was being launched in the UK. I was an avid user of the Amiga from about 1988 until about 1995. It was a really important part of my life and the hours of messing around I used to do with Workbench to get everything working are probably partly the reason why I do the job that I do (data scientist, which I absolutely love). I might do a nostalgic trip through what growing up with Amiga (500, then 1200 with 60MB hard drive) was like but that isn't for today, this is just kicking things off.
 
 I'm writing this blog for a few reasons. Firstly, because I cannot believe how strong the Amiga community is today. The Amiga lives on, 25 years later, and there are so many awesome helpful people in it. I haven't met any of them or even written a message on a board but I can tell that they are my people. I feel like I've come home after a long absence. I want to be a part of that community and hopefully give something back.
