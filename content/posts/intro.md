@@ -26,7 +26,7 @@ There's a new version of the OS out for original Amigas, another new one for Pow
 
 I'd like to write a blog that takes people from where I was a few months ago (vaguely remember the Amiga from 25 years ago) to being able to understand what's going on now. And in the process I hope I will get some new knowledge, which I will also blog here. 
 
-And lastly I would like to use this blog to catalogue some unfinished business I have from 25 years go. I tried to write Space Invaders in AMOS (Amiga BASIC). It kind of worked, but when the aliends got the to edge of the screen they all just wandered off in different directions. It was such a weird bug, and I did persevere with it for a bit, but I just couldn't figure it out and I gave up. I'm going to write that Space Invaders game, in AMOS, and it's going to work, and it's going to make me a better data scientist. And then, who knows, I may keep going with more games. See how I feel.
+And lastly I would like to use this blog to catalogue some unfinished business I have from 25 years go. I tried to write Space Invaders in AMOS (Amiga BASIC). It kind of worked, but when the aliens got the to edge of the screen they all just wandered off in different directions. It was such a weird bug, and I did persevere with it for a bit, but I just couldn't figure it out and I gave up. I'm going to write that Space Invaders game, in AMOS, and it's going to work, and it's going to make me a better data scientist. And then, who knows, I may keep going with more games. See how I feel.
 
 Join me next time when I describe all the different ways of getting your Amiga on in rough outline, and then I guess I'll follow up with more details of each (I only use FS-UAE and a RPi at the moment, but a Vampire is on my shopping list).
 
