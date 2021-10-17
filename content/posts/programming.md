@@ -4,8 +4,8 @@ date = "2021-09-05T22:14:57+01:00"
 author = "Chris Beeley"
 authorTwitter = "chrisbeeley" #do not include @
 cover = ""
-tags = ["amiga", "programming"]
-description = ""
+tags = ["Amiga", "programming"]
+description = "Programming the Amiga- from AMOS to Assembler"
 showFullContent = false
 draft = false
 +++

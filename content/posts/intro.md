@@ -4,8 +4,8 @@ date = 2021-09-04T18:45:00+01:00
 author = "Chris Beeley"
 authorTwitter = "chrisbeeley" #do not include @
 cover = ""
-tags = ["amiga", "hardware"]
-description = ""
+tags = ["Amiga", "hardware"]
+description = "A blog about Amigas in the modern world"
 showFullContent = false
 draft = false
 +++
@@ -16,11 +16,11 @@ I'm writing this blog for a few reasons. Firstly, because I cannot believe how s
 Secondly, because the Amiga scene, even though it is full of awesome people sharing their knowledge, is pretty confusing. Some people are using old hardware, and I would absolutely love to get some original hardware, but there are a lot of options now. I haven't done all the research yet (but I will, for this blog) but broadly the options are:
 
 * Original hardware
-* WinUAE (Windows emulation)
-* FS-UAE (Linux emulation)
+* FS-UAE (emulation- Windows, Mac, Linux)
 * Raspberry pi (several options here)
 * A5000 (new hardware)
 * Vampire (new FPGA powered hardware)
+* MiSTer FPGA
 
 There's a new version of the OS out for original Amigas, another new one for Power PCs (whatever they are), Vampire have one (AROS I think?). And there's an A500 mini coming out, that's just for games but it's still cool.
 
