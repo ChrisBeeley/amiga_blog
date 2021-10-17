@@ -31,6 +31,26 @@
 &lt;li&gt;FPGA&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Don&amp;rsquo;t worry if you don&amp;rsquo;t know what half that stuff is, I&amp;rsquo;m going to tell you, as well as providing some links.&lt;/p&gt;
+&lt;h2 id=&#34;original-hardware&#34;&gt;Original hardware&lt;/h2&gt;
+&lt;p&gt;This is the simplest, sort of. There&amp;rsquo;s a surprising amount of original Amiga hardware that is still alive and kicking. Very often things will be sold recapped, which means that the capacitors have been replaced. Often they will have had a good clean and test too. Recapping is pretty important because old capacitors can leak and damage the hardware. Other times you see listings that say &amp;ldquo;I just got this out of my loft, I&amp;rsquo;ve no idea if it works, you can buy it and find out if you want&amp;rdquo;. This is fine but clearly you are going to want to spend a lot less on such a purchase because you really don&amp;rsquo;t know if it&amp;rsquo;s going to work.&lt;/p&gt;
+&lt;p&gt;There are some companies that sell old Amiga hardware. I feel sure I will buy an A1200 as soon as I find space for one.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ami64.com/amiga-computers&#34;&gt;Ami64.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.retropassion.co.uk/&#34;&gt;Retro Passion&lt;/a&gt;. The thing I love about this shop is that they will even sell you a replica box! There were some very fancy Amiga boxes back in the day but I don&amp;rsquo;t think I had one, both my A500 and A1200 came in plain white boxes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are loads of upgrades you can get now for original hardware, such as CF based solid state hard drives, loads of accelerators, USB flash drives. Plugging an Amiga in to a modern TV can be a bit of a challenge, I don&amp;rsquo;t understand this well enough to help you but I gather it&amp;rsquo;s possible with the right adapter.&lt;/p&gt;
+&lt;h2 id=&#34;emulation&#34;&gt;Emulation&lt;/h2&gt;
+&lt;p&gt;This is also the simplest, sort of. There are two main types of emulation, really, normal PC and raspberry pi, so let&amp;rsquo;s have a look at both&lt;/p&gt;
+&lt;h3 id=&#34;normal-pc&#34;&gt;Normal PC&lt;/h3&gt;
+&lt;p&gt;If you use Windows, I would just pick up a copy of &lt;a href=&#34;https://www.amigaforever.com/&#34;&gt;Amiga Forever&lt;/a&gt;. It comes with emulation, Workbench, ROM files, everything you need really. It&amp;rsquo;s a little easier as far as I can tell, on Windows. For Linux and Mac you may end up buying Amiga Forever anyway, I did, because it comes as I mentioned with Workbench and ROM files. These files are not open source and so you can steal or buy them, basically. The cheapest way to get them is &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.cloanto.amigaforever.essentials&amp;amp;hl=en_GB&amp;amp;gl=US&#34;&gt;on Android&lt;/a&gt; but I use Linux and I bought Amiga Forever anyway because it comes with some free games and stuff.&lt;/p&gt;
+&lt;p&gt;Speaking of free games and stuff, there is absolutely masses of software &lt;a href=&#34;https://archive.org/details/Commodore_Amiga_TOSEC_2012_04_10&#34;&gt;for download here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;raspberry-pi&#34;&gt;Raspberry pi&lt;/h3&gt;
+&lt;p&gt;Quite a few options here, if you just want to play games you can use something like &lt;a href=&#34;https://blitterstudio.com/amiberry/&#34;&gt;Amiberry&lt;/a&gt; which you can download in things like &lt;a href=&#34;https://retropie.org.uk/&#34;&gt;Retro Pie&lt;/a&gt; or is available in &lt;a href=&#34;https://gunkrist79.wixsite.com/amibian&#34;&gt;Amibian&lt;/a&gt;. Another nice option is &lt;a href=&#34;https://retrogamecoders.com/pimiga/&#34;&gt;PiMiga&lt;/a&gt;, which gives a souped up desktop, applications, and games straight out of the gate. It&amp;rsquo;s awesome. At the moment there is a 1.5 version, I gather 2.0 is in the works.&lt;/p&gt;
+&lt;p&gt;Another option for Raspberry pi is &lt;a href=&#34;https://www.amikit.amiga.sk/raspberry&#34;&gt;AmiKit&lt;/a&gt;, I fiddled around with the free Linux version and didn&amp;rsquo;t love it, but you might, have a look, don&amp;rsquo;t take my word for it. There&amp;rsquo;s a free and a paid version.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;New hardware based on PowerPC&lt;/li&gt;
+&lt;li&gt;FPGA&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     </item>
     
