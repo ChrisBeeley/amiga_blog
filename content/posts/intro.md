@@ -17,7 +17,7 @@ Secondly, because the Amiga scene, even though it is full of awesome people shar
 
 * Original hardware
 * WinUAE (Windows emulation)
-* FS-UAE (Linux emualtion)
+* FS-UAE (Linux emulation)
 * Raspberry pi (several options here)
 * A5000 (new hardware)
 * Vampire (new FPGA powered hardware)
