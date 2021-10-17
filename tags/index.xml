@@ -6,13 +6,43 @@
     <description>Recent content in Tags on Amiga blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Sep 2021 22:14:57 +0100</lastBuildDate><atom:link href="https://chrisbeeley.github.io/amiga_blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Oct 2021 18:52:04 +0100</lastBuildDate><atom:link href="https://chrisbeeley.github.io/amiga_blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>amiga</title>
+      <title>Amiga</title>
       <link>https://chrisbeeley.github.io/amiga_blog/tags/amiga/</link>
-      <pubDate>Sun, 05 Sep 2021 22:14:57 +0100</pubDate>
+      <pubDate>Sun, 17 Oct 2021 18:52:04 +0100</pubDate>
       
       <guid>https://chrisbeeley.github.io/amiga_blog/tags/amiga/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>FS UAE</title>
+      <link>https://chrisbeeley.github.io/amiga_blog/tags/fs-uae/</link>
+      <pubDate>Sun, 17 Oct 2021 18:52:04 +0100</pubDate>
+      
+      <guid>https://chrisbeeley.github.io/amiga_blog/tags/fs-uae/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>hardware</title>
+      <link>https://chrisbeeley.github.io/amiga_blog/tags/hardware/</link>
+      <pubDate>Sun, 17 Oct 2021 18:52:04 +0100</pubDate>
+      
+      <guid>https://chrisbeeley.github.io/amiga_blog/tags/hardware/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Raspbery pi</title>
+      <link>https://chrisbeeley.github.io/amiga_blog/tags/raspbery-pi/</link>
+      <pubDate>Sun, 17 Oct 2021 18:52:04 +0100</pubDate>
+      
+      <guid>https://chrisbeeley.github.io/amiga_blog/tags/raspbery-pi/</guid>
       <description></description>
       <content></content>
     </item>
@@ -23,16 +53,6 @@
       <pubDate>Sun, 05 Sep 2021 22:14:57 +0100</pubDate>
       
       <guid>https://chrisbeeley.github.io/amiga_blog/tags/programming/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>hardware</title>
-      <link>https://chrisbeeley.github.io/amiga_blog/tags/hardware/</link>
-      <pubDate>Sat, 04 Sep 2021 18:45:00 +0100</pubDate>
-      
-      <guid>https://chrisbeeley.github.io/amiga_blog/tags/hardware/</guid>
       <description></description>
       <content></content>
     </item>

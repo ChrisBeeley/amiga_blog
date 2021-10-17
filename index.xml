@@ -6,7 +6,34 @@
     <description>Recent content on Amiga blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Sep 2021 22:14:57 +0100</lastBuildDate><atom:link href="https://chrisbeeley.github.io/amiga_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Oct 2021 18:52:04 +0100</lastBuildDate><atom:link href="https://chrisbeeley.github.io/amiga_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amiga basics</title>
+      <link>https://chrisbeeley.github.io/amiga_blog/posts/amiga_basics/</link>
+      <pubDate>Sun, 17 Oct 2021 18:52:04 +0100</pubDate>
+      
+      <guid>https://chrisbeeley.github.io/amiga_blog/posts/amiga_basics/</guid>
+      <description>In the introduction of this blog there is a list of some of the different ways that you can get hold of an Amiga in modern times and this is the thing that by far confused me the most when I started back after 25 years away. There are a lot of different ways of getting your Amiga fix and this post is designed to help you to understand what the heck they are.</description>
+      <content>&lt;p&gt;In the &lt;a href=&#34;https://chrisbeeley.github.io/amiga_blog/posts/intro/&#34;&gt;introduction of this blog&lt;/a&gt; there is a list of some of the different ways that you can get hold of an Amiga in modern times and this is the thing that by far confused me the most when I started back after 25 years away. There are a lot of different ways of getting your Amiga fix and this post is designed to help you to understand what the heck they are. Let&amp;rsquo;s go back to the list from the introduction:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Original hardware&lt;/li&gt;
+&lt;li&gt;FS-UAE (emulation- Windows, Mac, Linux)&lt;/li&gt;
+&lt;li&gt;Raspberry pi (several options here)&lt;/li&gt;
+&lt;li&gt;A5000 (new hardware)&lt;/li&gt;
+&lt;li&gt;Vampire (new FPGA powered hardware)&lt;/li&gt;
+&lt;li&gt;MiSTer FPGA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This list breaks down essentially into the following types:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Original hardware&lt;/li&gt;
+&lt;li&gt;Emulation&lt;/li&gt;
+&lt;li&gt;New hardware based on PowerPC&lt;/li&gt;
+&lt;li&gt;FPGA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Don&amp;rsquo;t worry if you don&amp;rsquo;t know what half that stuff is, I&amp;rsquo;m going to tell you, as well as providing some links.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Programming</title>
       <link>https://chrisbeeley.github.io/amiga_blog/posts/programming/</link>
@@ -55,11 +82,11 @@ Come say hi on Twitter if you like, if you like Amigas I&amp;rsquo;m sure we&amp
 &lt;p&gt;Secondly, because the Amiga scene, even though it is full of awesome people sharing their knowledge, is pretty confusing. Some people are using old hardware, and I would absolutely love to get some original hardware, but there are a lot of options now. I haven&amp;rsquo;t done all the research yet (but I will, for this blog) but broadly the options are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Original hardware&lt;/li&gt;
-&lt;li&gt;WinUAE (Windows emulation)&lt;/li&gt;
-&lt;li&gt;FS-UAE (Linux emulation)&lt;/li&gt;
+&lt;li&gt;FS-UAE (emulation- Windows, Mac, Linux)&lt;/li&gt;
 &lt;li&gt;Raspberry pi (several options here)&lt;/li&gt;
 &lt;li&gt;A5000 (new hardware)&lt;/li&gt;
 &lt;li&gt;Vampire (new FPGA powered hardware)&lt;/li&gt;
+&lt;li&gt;MiSTer FPGA&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;There&amp;rsquo;s a new version of the OS out for original Amigas, another new one for Power PCs (whatever they are), Vampire have one (AROS I think?). And there&amp;rsquo;s an A500 mini coming out, that&amp;rsquo;s just for games but it&amp;rsquo;s still cool.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;d like to write a blog that takes people from where I was a few months ago (vaguely remember the Amiga from 25 years ago) to being able to understand what&amp;rsquo;s going on now. And in the process I hope I will get some new knowledge, which I will also blog here.&lt;/p&gt;
