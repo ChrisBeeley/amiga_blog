@@ -22,11 +22,13 @@
 &lt;li&gt;A5000 (new hardware)&lt;/li&gt;
 &lt;li&gt;Vampire (new FPGA powered hardware)&lt;/li&gt;
 &lt;li&gt;MiSTer FPGA&lt;/li&gt;
+&lt;li&gt;A500 mini&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This list breaks down essentially into the following types:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Original hardware&lt;/li&gt;
 &lt;li&gt;Emulation&lt;/li&gt;
+&lt;li&gt;A500 mini&lt;/li&gt;
 &lt;li&gt;New hardware based on PowerPC&lt;/li&gt;
 &lt;li&gt;FPGA&lt;/li&gt;
 &lt;/ul&gt;
@@ -44,13 +46,19 @@
 &lt;h3 id=&#34;normal-pc&#34;&gt;Normal PC&lt;/h3&gt;
 &lt;p&gt;If you use Windows, I would just pick up a copy of &lt;a href=&#34;https://www.amigaforever.com/&#34;&gt;Amiga Forever&lt;/a&gt;. It comes with emulation, Workbench, ROM files, everything you need really. It&amp;rsquo;s a little easier as far as I can tell, on Windows. For Linux and Mac you may end up buying Amiga Forever anyway, I did, because it comes as I mentioned with Workbench and ROM files. These files are not open source and so you can steal or buy them, basically. The cheapest way to get them is &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.cloanto.amigaforever.essentials&amp;amp;hl=en_GB&amp;amp;gl=US&#34;&gt;on Android&lt;/a&gt; but I use Linux and I bought Amiga Forever anyway because it comes with some free games and stuff.&lt;/p&gt;
 &lt;p&gt;Speaking of free games and stuff, there is absolutely masses of software &lt;a href=&#34;https://archive.org/details/Commodore_Amiga_TOSEC_2012_04_10&#34;&gt;for download here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For Linux/ Windows/ Mac we have the excellent &lt;a href=&#34;https://fs-uae.net/&#34;&gt;FS UAE&lt;/a&gt;. It&amp;rsquo;s an absolute doddle to get it working. If you want to play games I suggest you go to &lt;a href=&#34;https://openretro.org/&#34;&gt;open retro&lt;/a&gt;, create an account, and then add your favourite games to your favourites list. You can then &lt;a href=&#34;https://openretro.org/fs-uae-launcher&#34;&gt;import the list into FS UAE&lt;/a&gt; and they will appear in a list within the application.&lt;/p&gt;
+&lt;p&gt;One more thing to say is that FS UAE supports &lt;a href=&#34;http://whdload.de/&#34;&gt;WHDLoad&lt;/a&gt; out of the box. WHDLoad is a way of bundling old Amiga games so they load from a hard drive even if the original didn&amp;rsquo;t support hard drives. Many games (like Turrican) even add multi button support. It&amp;rsquo;s absolutely wonderful and you need it in your life. DON&amp;rsquo;T do what I did and spend ages installing WHDLoad inside the actual OS (via Workbench). Although this will work, you don&amp;rsquo;t need to do this. Just get a WHDLoad file, stick it somewhere FS UAE can see it, click launch, and you&amp;rsquo;re off.&lt;/p&gt;
+&lt;h3 id=&#34;a500-mini&#34;&gt;A500 mini&lt;/h3&gt;
+&lt;p&gt;Speaking of WHDLoad, the forthcoming &lt;a href=&#34;https://retrogames.biz/thea500-mini&#34;&gt;A500 mini console&lt;/a&gt; supports WHDLoad too. It comes with 25 games, plugs in via HDMI, has an old style &amp;ldquo;tank&amp;rdquo; mouse&amp;quot;, and allows you to sideload your own WHDLoad games. It sounds wonderful. I have quite obviously pre-ordered one.&lt;/p&gt;
 &lt;h3 id=&#34;raspberry-pi&#34;&gt;Raspberry pi&lt;/h3&gt;
 &lt;p&gt;Quite a few options here, if you just want to play games you can use something like &lt;a href=&#34;https://blitterstudio.com/amiberry/&#34;&gt;Amiberry&lt;/a&gt; which you can download in things like &lt;a href=&#34;https://retropie.org.uk/&#34;&gt;Retro Pie&lt;/a&gt; or is available in &lt;a href=&#34;https://gunkrist79.wixsite.com/amibian&#34;&gt;Amibian&lt;/a&gt;. Another nice option is &lt;a href=&#34;https://retrogamecoders.com/pimiga/&#34;&gt;PiMiga&lt;/a&gt;, which gives a souped up desktop, applications, and games straight out of the gate. It&amp;rsquo;s awesome. At the moment there is a 1.5 version, I gather 2.0 is in the works.&lt;/p&gt;
 &lt;p&gt;Another option for Raspberry pi is &lt;a href=&#34;https://www.amikit.amiga.sk/raspberry&#34;&gt;AmiKit&lt;/a&gt;, I fiddled around with the free Linux version and didn&amp;rsquo;t love it, but you might, have a look, don&amp;rsquo;t take my word for it. There&amp;rsquo;s a free and a paid version.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;New hardware based on PowerPC&lt;/li&gt;
-&lt;li&gt;FPGA&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&#34;new-hardware-based-on-powerpc&#34;&gt;New hardware based on PowerPC&lt;/h2&gt;
+&lt;p&gt;This is the thing I know the least about, to be honest. There&amp;rsquo;s a type of computer called PowerPC, not just Amigas, it&amp;rsquo;s A Thing, and there was an AmigaOne X1000, and there is an &lt;a href=&#34;https://www.amigaos.net/hardware/133/amigaone-x5000&#34;&gt;AmigaOne X5000 imminent&lt;/a&gt;. That&amp;rsquo;s all I know. There doesn&amp;rsquo;t seem to be a lot of stuff online. Sounds super interesting, just don&amp;rsquo;t really know what it is.&lt;/p&gt;
+&lt;h2 id=&#34;fpga&#34;&gt;FPGA&lt;/h2&gt;
+&lt;p&gt;FPGA is what all the cool kids are doing now. It&amp;rsquo;s a system to emulate systems down to the chip level, like programmable silicon. The new &lt;a href=&#34;https://www.analogue.co/pocket&#34;&gt;Analogue Pocket&lt;/a&gt; uses FPGA (it looks gorgeous, I may get one). &lt;a href=&#34;https://www.theverge.com/22323002/mister-fpga-project-retro-computer-console-early-pc&#34;&gt;MiSTer&lt;/a&gt; is what you want for an Amiga- it will emulate all kinds of things, including Amigas. The &lt;a href=&#34;https://www.apollo-accelerators.com/&#34;&gt;Vampire project&lt;/a&gt; also uses FPGA technology and they make very, very fast Amigas which come in small cases and are reasonably priced. I really want one.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-an-amiga&#34;&gt;What is an Amiga?&lt;/h2&gt;
+&lt;p&gt;I probably can&amp;rsquo;t really leave this post without discussing what an Amiga actually is. Some people in the Amiga community get quite het up about this. Original hardware obviously is an Amiga. Emulation is pretending to be a real Amiga. But some of the stuff I&amp;rsquo;ve talked about isn&amp;rsquo;t recognisably &amp;ldquo;Amiga&amp;rdquo; as such- more what the Amiga would have become, if you like. The likes of PiMiga, Vampire, AmigaOne X5000, they all have different operating systems and desktop environments. I don&amp;rsquo;t understand the technical bits well enough to give a good answer to what an Amiga is from a technical point of view. Amigas are special. They&amp;rsquo;re not like normal computers. There are people who love Amigas for whom only the original will do. And there are people who love Amigas who are trying to imagine the future of Amiga. To me, if you love Amiga, and you tell me something is an Amiga, that&amp;rsquo;s good enough for me. I&amp;rsquo;m really glad we have both types of enthusiast. I really think that the Amiga will never die, and that&amp;rsquo;s amazing, and that&amp;rsquo;s partly why I&amp;rsquo;m writing this blog, to help you understand how amazing it is.&lt;/p&gt;
 </content>
     </item>
     

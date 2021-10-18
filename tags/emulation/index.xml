@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Amiga blog</title>
-    <link>https://chrisbeeley.github.io/amiga_blog/posts/</link>
-    <description>Recent content in Posts on Amiga blog</description>
+    <title>emulation on Amiga blog</title>
+    <link>https://chrisbeeley.github.io/amiga_blog/tags/emulation/</link>
+    <description>Recent content in emulation on Amiga blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Oct 2021 18:52:04 +0100</lastBuildDate><atom:link href="https://chrisbeeley.github.io/amiga_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Oct 2021 18:52:04 +0100</lastBuildDate><atom:link href="https://chrisbeeley.github.io/amiga_blog/tags/emulation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amiga basics</title>
       <link>https://chrisbeeley.github.io/amiga_blog/posts/amiga_basics/</link>
@@ -59,54 +59,6 @@
 &lt;p&gt;FPGA is what all the cool kids are doing now. It&amp;rsquo;s a system to emulate systems down to the chip level, like programmable silicon. The new &lt;a href=&#34;https://www.analogue.co/pocket&#34;&gt;Analogue Pocket&lt;/a&gt; uses FPGA (it looks gorgeous, I may get one). &lt;a href=&#34;https://www.theverge.com/22323002/mister-fpga-project-retro-computer-console-early-pc&#34;&gt;MiSTer&lt;/a&gt; is what you want for an Amiga- it will emulate all kinds of things, including Amigas. The &lt;a href=&#34;https://www.apollo-accelerators.com/&#34;&gt;Vampire project&lt;/a&gt; also uses FPGA technology and they make very, very fast Amigas which come in small cases and are reasonably priced. I really want one.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-an-amiga&#34;&gt;What is an Amiga?&lt;/h2&gt;
 &lt;p&gt;I probably can&amp;rsquo;t really leave this post without discussing what an Amiga actually is. Some people in the Amiga community get quite het up about this. Original hardware obviously is an Amiga. Emulation is pretending to be a real Amiga. But some of the stuff I&amp;rsquo;ve talked about isn&amp;rsquo;t recognisably &amp;ldquo;Amiga&amp;rdquo; as such- more what the Amiga would have become, if you like. The likes of PiMiga, Vampire, AmigaOne X5000, they all have different operating systems and desktop environments. I don&amp;rsquo;t understand the technical bits well enough to give a good answer to what an Amiga is from a technical point of view. Amigas are special. They&amp;rsquo;re not like normal computers. There are people who love Amigas for whom only the original will do. And there are people who love Amigas who are trying to imagine the future of Amiga. To me, if you love Amiga, and you tell me something is an Amiga, that&amp;rsquo;s good enough for me. I&amp;rsquo;m really glad we have both types of enthusiast. I really think that the Amiga will never die, and that&amp;rsquo;s amazing, and that&amp;rsquo;s partly why I&amp;rsquo;m writing this blog, to help you understand how amazing it is.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://chrisbeeley.github.io/amiga_blog/posts/programming/</link>
-      <pubDate>Sun, 05 Sep 2021 22:14:57 +0100</pubDate>
-      
-      <guid>https://chrisbeeley.github.io/amiga_blog/posts/programming/</guid>
-      <description>If you read my introduction then you&amp;rsquo;ll know that part of the reason I&amp;rsquo;m doing this blog, doing any of this in fact, is because I tried to write Space Invaders in AMOS 25 years ago, got a weird bug, and gave up. More for my reference than anything else (like 95% of my GitHub, in fact), here follows a list of the options I&amp;rsquo;ve been looking at so far</description>
-      <content>&lt;p&gt;If you read &lt;a href=&#34;https://chrisbeeley.github.io/amiga_blog/posts/intro/&#34;&gt;my introduction&lt;/a&gt; then you&amp;rsquo;ll know that part of the reason I&amp;rsquo;m doing this blog, doing any of this in fact, is because I tried to write Space Invaders in AMOS 25 years ago, got a weird bug, and gave up. More for my reference than anything else (like 95% of my GitHub, in fact), here follows a list of the options I&amp;rsquo;ve been looking at so far&lt;/p&gt;
-&lt;p&gt;There seem to be a few options.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;AMOS (which comes in Easy and Professional form)&lt;/li&gt;
-&lt;li&gt;BlitzBasic (which got to version 2 but now seems to have been upgraded to the related 3, &lt;a href=&#34;https://www.amiblitz.de/index.php&#34;&gt;which looks pretty swish&lt;/a&gt; with an IDE and everything)&lt;/li&gt;
-&lt;li&gt;C (I would love to learn C but I gather it&amp;rsquo;s pretty hard)&lt;/li&gt;
-&lt;li&gt;Assembler (I&amp;rsquo;ve read Assembler and it looks like what most people think normal programming languages look like- gobbledigook)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I&amp;rsquo;m pretty much going to work down the list, I think, I&amp;rsquo;m going to go give BlitzBasic 3 a try, probably will bounce off that and then try C. But who knows? This is pretty fun, could end up anywhere. I highly doubt I will write a line of Amiga Assembler in my life but never say never.&lt;/p&gt;
-&lt;p&gt;One thing I should add is that I really want to write the code on an Amiga. An emulated one at the moment, and then perhaps I&amp;rsquo;ll treat myself to a Vampire some time. I don&amp;rsquo;t have much room in the office but Vampires are pretty small. I don&amp;rsquo;t want to write games &lt;em&gt;for&lt;/em&gt; the Amiga, I want to write them &lt;em&gt;on&lt;/em&gt; the Amiga. You know, for old time&amp;rsquo;s sake.&lt;/p&gt;
-&lt;p&gt;Next post is I think one aimed at my buddies, entitled, &amp;ldquo;So you want to play Amiga games without buying any new hardware?&amp;rdquo; (super easy and cheap).&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Intro and welcome</title>
-      <link>https://chrisbeeley.github.io/amiga_blog/posts/intro/</link>
-      <pubDate>Sat, 04 Sep 2021 18:45:00 +0100</pubDate>
-      
-      <guid>https://chrisbeeley.github.io/amiga_blog/posts/intro/</guid>
-      <description>Hello! This blog is all about my return to the world of Amiga. I have been clicking occasionally on Amiga stuff that I saw in my Twitter feed and was amazed to see that an Amiga print magazine was being launched in the UK. I was an avid user of the Amiga from about 1988 until about 1995. It was a really important part of my life and the hours of messing around I used to do with Workbench to get everything working are probably partly the reason why I do the job that I do (data scientist, which I absolutely love).</description>
-      <content>&lt;p&gt;Hello! This blog is all about my return to the world of Amiga. I have been clicking occasionally on Amiga stuff that I saw in my Twitter feed and was amazed to see that an Amiga print magazine was being launched in the UK. I was an avid user of the Amiga from about 1988 until about 1995. It was a really important part of my life and the hours of messing around I used to do with Workbench to get everything working are probably partly the reason why I do the job that I do (data scientist, which I absolutely love). I might do a nostalgic trip through what growing up with Amiga (500, then 1200 with 60MB hard drive) was like but that isn&amp;rsquo;t for today, this is just kicking things off.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m writing this blog for a few reasons. Firstly, because I cannot believe how strong the Amiga community is today. The Amiga lives on, 25 years later, and there are so many awesome helpful people in it. I haven&amp;rsquo;t met any of them or even written a message on a board but I can tell that they are my people. I feel like I&amp;rsquo;ve come home after a long absence. I want to be a part of that community and hopefully give something back.&lt;/p&gt;
-&lt;p&gt;Secondly, because the Amiga scene, even though it is full of awesome people sharing their knowledge, is pretty confusing. Some people are using old hardware, and I would absolutely love to get some original hardware, but there are a lot of options now. I haven&amp;rsquo;t done all the research yet (but I will, for this blog) but broadly the options are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Original hardware&lt;/li&gt;
-&lt;li&gt;FS-UAE (emulation- Windows, Mac, Linux)&lt;/li&gt;
-&lt;li&gt;Raspberry pi (several options here)&lt;/li&gt;
-&lt;li&gt;A5000 (new hardware)&lt;/li&gt;
-&lt;li&gt;Vampire (new FPGA powered hardware)&lt;/li&gt;
-&lt;li&gt;MiSTer FPGA&lt;/li&gt;
-&lt;li&gt;A500 mini&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;There&amp;rsquo;s a new version of the OS out for original Amigas, another new one for Power PCs (whatever they are), Vampire have one (AROS I think?). And there&amp;rsquo;s an A500 mini coming out, that&amp;rsquo;s just for games but it&amp;rsquo;s still cool.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d like to write a blog that takes people from where I was a few months ago (vaguely remember the Amiga from 25 years ago) to being able to understand what&amp;rsquo;s going on now. And in the process I hope I will get some new knowledge, which I will also blog here.&lt;/p&gt;
-&lt;p&gt;And lastly I would like to use this blog to catalogue some unfinished business I have from 25 years go. I tried to write Space Invaders in AMOS (Amiga BASIC). It kind of worked, but when the aliens got the to edge of the screen they all just wandered off in different directions. It was such a weird bug, and I did persevere with it for a bit, but I just couldn&amp;rsquo;t figure it out and I gave up. I&amp;rsquo;m going to write that Space Invaders game, in AMOS, and it&amp;rsquo;s going to work, and it&amp;rsquo;s going to make me a better data scientist. And then, who knows, I may keep going with more games. See how I feel.&lt;/p&gt;
-&lt;p&gt;Join me next time when I describe all the different ways of getting your Amiga on in rough outline, and then I guess I&amp;rsquo;ll follow up with more details of each (I only use FS-UAE and a RPi at the moment, but a Vampire is on my shopping list).&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m off to learn some AMOS.&lt;/p&gt;
 </content>
     </item>
     
