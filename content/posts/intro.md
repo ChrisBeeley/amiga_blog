@@ -21,6 +21,7 @@ Secondly, because the Amiga scene, even though it is full of awesome people shar
 * A5000 (new hardware)
 * Vampire (new FPGA powered hardware)
 * MiSTer FPGA
+* A500 mini
 
 There's a new version of the OS out for original Amigas, another new one for Power PCs (whatever they are), Vampire have one (AROS I think?). And there's an A500 mini coming out, that's just for games but it's still cool.
 
