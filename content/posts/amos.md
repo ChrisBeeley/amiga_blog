@@ -7,13 +7,13 @@ cover = ""
 tags = ["AMOS", "Easy AMOS", "AMOS Professional", "Programming"]
 description = ""
 showFullContent = false
-draft = true
+draft = false
 +++
 
 As I mentioned in my [programming post]({{< ref "programming.md" >}}) I'm going to start with AMOS, because it's AMOS that defeated me all those years ago with Space Invaders. There is stuff scattered about to help you learn and install AMOS but honestly it's spread pretty thinly and there are quite a lot of broken links so I've had a bit of a frustrating start. I'm going to write down What I Did for everyone's benefit, including mine when I get stuck. 
 
 * Easy AMOS/ Normal AMOS can be found in this [big archive of Amiga software](https://archive.org/details/Commodore_Amiga_TOSEC_2012_04_10)
-* [AMOS Professional](https://github.com/marc365/AMOS-Professional-365)
+* [AMOS Professional](https://github.com/marc365/AMOS-Professional-365/releases/tag/365)
 * [Easy AMOS manual](https://www.retro-commodore.eu/download.php?file=Mandarian_Easy_Amos.pdf)
 * [AMOS manual](https://www.retro-commodore.eu/download.php?file=Mandarin_Amos_The_Creator_User_Guide.pdf)
 * [AMOS Professional manual](http://www.classicamiga.com/images/stories/jreviews/software/A/manuals/AmosPro.pdf)
@@ -27,4 +27,14 @@ I'm going to give instructions that work on FS-UAE for Linux, which is what I'm 
 
 ## Easy AMOS
 
-I started working through the manual of Easy AMOS. It's very readable and accessible, but for someone who knows how to program (badly) it was a bit *too* basic. It's all in there, I just wanted to move through the material a bit faster. If you don't know how to program and you feel like
+I started working through the manual of Easy AMOS. It's very readable and accessible, but for someone who knows how to program (badly) it was a bit *too* basic. It's all in there, I just wanted to move through the material a bit faster. If you don't know how to program and you feel like learning a 29 year old programming language on an emulated version of hardware that hasn't been manufactured in 26 years (not sure how many people there are in *that* Venn diagram) go for it. 
+
+## Normal AMOS
+
+//TODO
+
+## AMOS Professional
+
+Getting AMOS Professional working is very easy. Go to the link above and download the zip file where indicated. Extract it, and you just want the folder called "AMOS". Copy that folder somewhere you can keep it, then just drop it in as a hard drive in FS-UAE (go to the hard drive tab, select the little picture of a folder next to an empty hard drive slot, and then select the AMOS folder). You'll need to have a Workbench HD image too. That's another blog post. I learned the above in these [excellent blog posts](https://retrogamecoders.com/installing-amos-basic/) but the advice is in a video and I prefer to read stuff myself.
+
+My next step is to work through the tutorials in the previous link which culminates in... yes... Space Invaders. I'm not going to count that as a "win" for this step though, I'll make my own. Good start though.
