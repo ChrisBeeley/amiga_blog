@@ -17,7 +17,7 @@
       <content>&lt;p&gt;If you read &lt;a href=&#34;https://chrisbeeley.github.io/amiga_blog/posts/intro/&#34;&gt;my introduction&lt;/a&gt; then you&amp;rsquo;ll know that part of the reason I&amp;rsquo;m doing this blog, doing any of this in fact, is because I tried to write Space Invaders in AMOS 25 years ago, got a weird bug, and gave up. More for my reference than anything else (like 95% of my GitHub, in fact), here follows a list of the options I&amp;rsquo;ve been looking at so far&lt;/p&gt;
 &lt;p&gt;There seem to be a few options.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;AMOS (which comes in Easy and Professional form)&lt;/li&gt;
+&lt;li&gt;AMOS (which comes in Easy and Professional form, as well as normal AMOS)&lt;/li&gt;
 &lt;li&gt;BlitzBasic (which got to version 2 but now seems to have been upgraded to the related 3, &lt;a href=&#34;https://www.amiblitz.de/index.php&#34;&gt;which looks pretty swish&lt;/a&gt; with an IDE and everything)&lt;/li&gt;
 &lt;li&gt;C (I would love to learn C but I gather it&amp;rsquo;s pretty hard)&lt;/li&gt;
 &lt;li&gt;Assembler (I&amp;rsquo;ve read Assembler and it looks like what most people think normal programming languages look like- gobbledigook)&lt;/li&gt;
