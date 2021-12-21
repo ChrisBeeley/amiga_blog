@@ -14,7 +14,7 @@ If you read [my introduction]({{< ref "/posts/intro.md" >}}) then you'll know th
 
 There seem to be a few options. 
 
-* AMOS (which comes in Easy and Professional form)
+* AMOS (which comes in Easy and Professional form, as well as normal AMOS)
 * BlitzBasic (which got to version 2 but now seems to have been upgraded to the related 3, [which looks pretty swish](https://www.amiblitz.de/index.php) with an IDE and everything)
 * C (I would love to learn C but I gather it's pretty hard)
 * Assembler (I've read Assembler and it looks like what most people think normal programming languages look like- gobbledigook)
