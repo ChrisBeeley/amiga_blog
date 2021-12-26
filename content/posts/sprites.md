@@ -4,8 +4,8 @@ date = "2021-12-26T16:10:39Z"
 author = "Chris Beeley"
 authorTwitter = "chrisbeeley" #do not include @
 cover = ""
-tags = ["", ""]
-keywords = ["sprite", "programming"]
+tags = ["sprite", "programming"]
+keywords = ["", ""]
 description = ""
 showFullContent = false
 +++
