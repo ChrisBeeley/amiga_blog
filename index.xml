@@ -6,7 +6,29 @@
     <description>Recent content on Amiga blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Dec 2021 16:10:39 +0000</lastBuildDate><atom:link href="https://chrisbeeley.github.io/amiga_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Dec 2021 16:57:03 +0000</lastBuildDate><atom:link href="https://chrisbeeley.github.io/amiga_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources</title>
+      <link>https://chrisbeeley.github.io/amiga_blog/resources/resources/</link>
+      <pubDate>Sun, 26 Dec 2021 16:57:03 +0000</pubDate>
+      
+      <guid>https://chrisbeeley.github.io/amiga_blog/resources/resources/</guid>
+      <description>Resources I have been trying to catalogue things as I&amp;rsquo;ve found them but as I roam the internet looking for Amiga related stuff I&amp;rsquo;m finding so much stuff that I feel I need to start getting it all down in one place. I will continue to link stuff directly in posts where it&amp;rsquo;s relevant, but I&amp;rsquo;m going to start compiling a mega list of links here. For now I&amp;rsquo;ll just do a big list with subheadings but over time I might break it into several documents, see how it goes.</description>
+      <content>&lt;h1 id=&#34;resources&#34;&gt;Resources&lt;/h1&gt;
+&lt;p&gt;I have been trying to catalogue things as I&amp;rsquo;ve found them but as I roam the internet looking for Amiga related stuff I&amp;rsquo;m finding so much stuff that I feel I need to start getting it all down in one place. I will continue to link stuff directly in posts where it&amp;rsquo;s relevant, but I&amp;rsquo;m going to start compiling a mega list of links here. For now I&amp;rsquo;ll just do a big list with subheadings but over time I might break it into several documents, see how it goes.&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amigapd.com/downloads.html&#34;&gt;Loads of great downloads&lt;/a&gt; but do note that I can&amp;rsquo;t actually figure out how to access this page from within the site which is not well organised- so I advise you to use this bookmark&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;programming&#34;&gt;Programming&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://amigafonteditor.ozzyboshi.com/index_sprite.html&#34;&gt;Online sprite editor&lt;/a&gt; that outputs hex/ binary and a few other things (&lt;a href=&#34;https://github.com/Ozzyboshi/AmigaFontEditor&#34;&gt;and the code&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amigapd.com/amospdsourcecode.html&#34;&gt;Loads of source code for AMOS games&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://archive.org/details/cdrom-amospdcd&#34;&gt;AMOS public domain CD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
     <item>
       <title>Sprites</title>
       <link>https://chrisbeeley.github.io/amiga_blog/posts/sprites/</link>
