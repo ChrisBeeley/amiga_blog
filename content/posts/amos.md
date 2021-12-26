@@ -7,7 +7,6 @@ cover = ""
 tags = ["AMOS", "Easy AMOS", "AMOS Professional", "Programming"]
 description = ""
 showFullContent = false
-draft = false
 +++
 
 As I mentioned in my [programming post]({{< ref "programming.md" >}}) I'm going to start with AMOS, because it's AMOS that defeated me all those years ago with Space Invaders. There is stuff scattered about to help you learn and install AMOS but honestly it's spread pretty thinly and there are quite a lot of broken links so I've had a bit of a frustrating start. I'm going to write down What I Did for everyone's benefit, including mine when I get stuck. 
@@ -22,6 +21,7 @@ Other resources:
 
 * [Amiga game maker's manual with AMOS basic](https://archive.org/details/amiga-game-makers-manual/mode/2up)
 * [Mastering Amiga AMOS](https://retro-commodore.eu/files/downloads/amigamanuals-xiik.net/eBooks/Mastering%20Amiga%20Amos%20-%20eBook-ENG.pdf)
+* [Ultimate AMOS](https://gitlab.com/amigasourcecodepreservation/ultimate-amos/-/raw/master/pdf/ultimate-amos-1994-holborn.pdf)
 
 I'm going to give instructions that work on FS-UAE for Linux, which is what I'm using. I imagine it will be even simpler on a real Amiga. As for other types of Amigas, I really have no idea what I'm doing so don't listen to me. Speaking of not knowing what I'm doing, I'm still sort of bobbing about trying to find the path of least resistance to learn this stuff, these are only notes really, hopefully in the future it will all make sense and I'll write a follow up post that makes more sense. I will *try* to put stuff on GitHub, but how the heck you get stuff from AMOS onto GitHub on an FS-UAE emulated instance of an Amiga I don't at the moment have a clue. If I write something that works and figure it out, it will be here, trust me on that.
 
