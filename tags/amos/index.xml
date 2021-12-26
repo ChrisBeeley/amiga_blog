@@ -26,6 +26,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://archive.org/details/amiga-game-makers-manual/mode/2up&#34;&gt;Amiga game maker&amp;rsquo;s manual with AMOS basic&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://retro-commodore.eu/files/downloads/amigamanuals-xiik.net/eBooks/Mastering%20Amiga%20Amos%20-%20eBook-ENG.pdf&#34;&gt;Mastering Amiga AMOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/amigasourcecodepreservation/ultimate-amos/-/raw/master/pdf/ultimate-amos-1994-holborn.pdf&#34;&gt;Ultimate AMOS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I&amp;rsquo;m going to give instructions that work on FS-UAE for Linux, which is what I&amp;rsquo;m using. I imagine it will be even simpler on a real Amiga. As for other types of Amigas, I really have no idea what I&amp;rsquo;m doing so don&amp;rsquo;t listen to me. Speaking of not knowing what I&amp;rsquo;m doing, I&amp;rsquo;m still sort of bobbing about trying to find the path of least resistance to learn this stuff, these are only notes really, hopefully in the future it will all make sense and I&amp;rsquo;ll write a follow up post that makes more sense. I will &lt;em&gt;try&lt;/em&gt; to put stuff on GitHub, but how the heck you get stuff from AMOS onto GitHub on an FS-UAE emulated instance of an Amiga I don&amp;rsquo;t at the moment have a clue. If I write something that works and figure it out, it will be here, trust me on that.&lt;/p&gt;
 &lt;h2 id=&#34;easy-amos&#34;&gt;Easy AMOS&lt;/h2&gt;
