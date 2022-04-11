@@ -6,34 +6,7 @@
     <description>Recent content in Posts on Amiga blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Apr 2022 10:16:31 +0100</lastBuildDate><atom:link href="https://chrisbeeley.github.io/amiga_blog/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The best WHDload games</title>
-      <link>https://chrisbeeley.github.io/amiga_blog/posts/whdload/</link>
-      <pubDate>Mon, 11 Apr 2022 10:16:31 +0100</pubDate>
-      
-      <guid>https://chrisbeeley.github.io/amiga_blog/posts/whdload/</guid>
-      <description>The best WHDload games IMHO The A500 mini has finally arrived. I think enough ink has been spilled on the unit itself (as well as whatever you spill when you make YouTube videos) but suffice to say I have one, it&amp;rsquo;s beautiful and easy to use, and it has some cool games on it. My favourites are :
-   </description>
-      <content>&lt;h2 id=&#34;the-best-whdload-games-imho&#34;&gt;The best WHDload games IMHO&lt;/h2&gt;
-&lt;p&gt;The &lt;a href=&#34;https://retrogames.biz/products/thea500-mini/&#34;&gt;A500 mini&lt;/a&gt; has finally arrived. I think enough ink has been spilled on the unit itself (as well as whatever you spill when you make YouTube videos) but suffice to say I have one, it&amp;rsquo;s beautiful and easy to use, and it has some cool games on it. My favourites are :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Sprites</title>
-      <link>https://chrisbeeley.github.io/amiga_blog/posts/sprites/</link>
-      <pubDate>Sun, 26 Dec 2021 16:10:39 +0000</pubDate>
-      
-      <guid>https://chrisbeeley.github.io/amiga_blog/posts/sprites/</guid>
-      <description>I&amp;rsquo;m still working through the vanilla AMOS bit of my programming post but I&amp;rsquo;m very stuck at the moment on making sprites. I only need two- one for the space invaders and one for the ship (I think the little shields won&amp;rsquo;t be sprites but dynamically generated, but we&amp;rsquo;re getting to that).</description>
-      <content>&lt;p&gt;I&amp;rsquo;m still working through the vanilla AMOS bit of &lt;a href=&#34;https://chrisbeeley.github.io/amiga_blog/posts/programming/&#34;&gt;my programming post&lt;/a&gt; but I&amp;rsquo;m very stuck at the moment on making sprites. I only need two- one for the space invaders and one for the ship (I think the little shields won&amp;rsquo;t be sprites but dynamically generated, but we&amp;rsquo;re getting to that).&lt;/p&gt;
-</content>
-    </item>
-    
+    <lastBuildDate>Tue, 21 Dec 2021 18:17:47 +0000</lastBuildDate><atom:link href="https://chrisbeeley.github.io/amiga_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amos</title>
       <link>https://chrisbeeley.github.io/amiga_blog/posts/amos/</link>
