@@ -14,4 +14,3 @@ The [A500 mini](https://retrogames.biz/products/thea500-mini/) has finally arriv
 * [Alien Breed: Special edition '92](https://openretro.org/amiga/alien-breed-special-edition-92)
 * 
 
-There's quite a few that I 
