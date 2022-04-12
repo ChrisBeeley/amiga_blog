@@ -16,14 +16,13 @@ The [A500 mini](https://retrogames.biz/products/thea500-mini) is here. Much has 
 ### Stone cold classic
 
 * Alien Breed: Special Edition 92
-
-> This is basically Aliens: The Topdown shooter. Atmospheric, well paced, exciting, varied. Truly a masterpiece
-
-
-Pinball Dreams
-Speedball 2: Brutal Deluxe
-Worms: The Director’s Cut
-The Chaos Engine
+    * This is basically Aliens: The Topdown shooter. Atmospheric, well paced, exciting, varied. Truly a masterpiece
+* Pinball Dreams
+    * This is what the people who make Battlefield were doing in the 1990s, making pinball games. The tables are a little simplistic and small by modern standards and there's only one standout table (Nightmare) but it's still brilliant. The sequel, Pinball Fantasies, is better in every way and this can be added to the A500 mini, for more on which see a forthcoming post
+* Speedball 2: Brutal Deluxe
+    * 
+* Worms: The Director’s Cut
+* The Chaos Engine
 
 ### Worth a look
 
