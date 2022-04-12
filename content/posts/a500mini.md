@@ -6,7 +6,7 @@ authorTwitter = "chrisbeeley" #do not include @
 tags = ["games", "a500 mini"]
 description = "A quick roundup of all the games on the A500 mini"
 showFullContent = false
-draft = true
+draft = false
 +++
 
 ## A500 mini- built in games roundup
@@ -15,9 +15,11 @@ The [A500 mini](https://retrogames.biz/products/thea500-mini) is here. Much has 
 
 ### Stone cold classic
 
-Alien Breed: Special Edition 92
-Another World
-Arcade Pool
+* Alien Breed: Special Edition 92
+
+> This is basically Aliens: The Topdown shooter. Atmospheric, well paced, exciting, varied. Truly a masterpiece
+
+
 Pinball Dreams
 Speedball 2: Brutal Deluxe
 Worms: The Director’s Cut
@@ -28,3 +30,11 @@ The Chaos Engine
 ATR: All Terrain Racing
 California Games
 Paradroid 90
+Another World
+Arcade Pool
+
+### Don't bother
+
+Battle Chess
+Zool: Ninja Of The ”Nth” Dimension
+Kick Off 2
