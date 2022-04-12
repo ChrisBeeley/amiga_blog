@@ -20,17 +20,19 @@ The [A500 mini](https://retrogames.biz/products/thea500-mini) is here. Much has 
 * Pinball Dreams
     * This is what the people who make Battlefield were doing in the 1990s, making pinball games. The tables are a little simplistic and small by modern standards and there's only one standout table (Nightmare) but it's still brilliant. The sequel, Pinball Fantasies, is better in every way and this can be added to the A500 mini, for more on which see a forthcoming post
 * Speedball 2: Brutal Deluxe
-    * 
+    * A futuristic sport that basically involves hitting people and chucking a ball in a goal this will always raise a smile in multiplayer. It's weaker for single players, as these things often are, but there is a career mode that is actually reasonably deep considering what a silly sport it is
 * Worms: The Director’s Cut
+    * Worms. Brilliant on every format, ever. I never played the Amiga version back in the day so I've had a quick look for this post.  WHAT DO I THINK
 * The Chaos Engine
+    * Top down co-op shooter with beautiful graphics. A little primitive by today's standards but still brilliant to this day
 
 ### Worth a look
 
-ATR: All Terrain Racing
-California Games
-Paradroid 90
-Another World
-Arcade Pool
+* ATR: All Terrain Racing
+* California Games
+* Paradroid 90
+* Another World
+* Arcade Pool
 
 ### Don't bother
 
