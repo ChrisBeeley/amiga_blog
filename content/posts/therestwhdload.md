@@ -4,11 +4,10 @@ date = "2022-04-13T04:22:00+01:00"
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["", ""]
-keywords = ["", ""]
-description = ""
+tags = ["games", "whdload", "a500 mini"]
+description = "A list of WHDload games that are worth playing but didn't make it into the top 10 or honourable mentions lists"
 showFullContent = false
-draft = true
+draft = false
 +++
 
 ### Top 10
@@ -22,9 +21,14 @@ draft = true
 * Gods 
 * Gravity Force 
 * Gravity Force 2 
+* Hired Guns 
+* Jetstrike  
 
 ### Honourable mentions
+* Beneath a Steel Sky 
 * Cabal 
+* International Karate + 
+* It Came from the Desert 
 
 ### The rest
 
@@ -36,7 +40,6 @@ draft = true
 * Barbarian: The Ultimate Warrior 
 * Battle Isle 
 * Battle Squadron 
-* Beneath a Steel Sky 
 * Benefactor 
 * Bill's Tomato Game 
 * Blood Money 
@@ -83,17 +86,13 @@ draft = true
 * Gunship 2000  
 * Harlequin 
 * Heimdall 
-* Hired Guns 
 * Holiday Lemmings 1993 
 * Holiday Lemmings 1994 
 * Human Killing Machine 
 * Indy Heat 
-* International Karate + 
-* It Came from the Desert 
 * Ivan "Ironman" Stewart's Super Off Road 
 * James Pond: Underwater Agent 
 * James Pond 2: Codename RoboCod  
-* Jetstrike  
 * Jim Power in Mutant Planet 
 * Jimmy White's Whirlwind Snooker 
 * Jurassic Park  
