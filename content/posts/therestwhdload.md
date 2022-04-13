@@ -10,27 +10,7 @@ showFullContent = false
 draft = false
 +++
 
-### Top 10
-
-* Apidya 
-* Banshee
-* Batman: The Movie 
-* Cannon Fodder 
-* Dune II: The Battle for Arrakis 
-* Fire & Ice 
-* Gods 
-* Gravity Force 
-* Gravity Force 2 
-* Hired Guns 
-* Jetstrike  
-
-### Honourable mentions
-* Beneath a Steel Sky 
-* Cabal 
-* International Karate + 
-* It Came from the Desert 
-
-### The rest
+## The rest
 
 * The Addams Family 
 * Agony 
@@ -44,14 +24,9 @@ draft = false
 * Bill's Tomato Game 
 * Blood Money 
 * Body Blows  
-* Brutal Football  
 * Bubble Bobble 
 * Caesar 
 * Cannon Fodder 2 
-* Cannon Fodder 2: Alien Levels 
-* Cannon Fodder Plus 
-* Cannon Fodder: New Campaign 
-* Cannon Soccer 
 * Carcharodon: White Sharks 
 * Carrier Command 
 * Celtic Legends 
@@ -86,8 +61,6 @@ draft = false
 * Gunship 2000  
 * Harlequin 
 * Heimdall 
-* Holiday Lemmings 1993 
-* Holiday Lemmings 1994 
 * Human Killing Machine 
 * Indy Heat 
 * Ivan "Ironman" Stewart's Super Off Road 
@@ -99,76 +72,49 @@ draft = false
 * Keef The Thief 
 * The Killing Game Show 
 * King's Bounty 
-* Laser Squad 
 * Last Ninja 2 
 * Last Ninja 3 
-* Leander 
 * LED Storm 
-* Lemmings 
-* Lemmings 2: The Tribes 
 * Links 
 * Lionheart 
-* Llamatron: 2112 
-* Lotus Esprit Turbo Challenge 
-* Lotus Turbo Challenge 2 
-* Lotus III: The Ultimate Challenge 
 * Lure of the Temptress 
 * Magic Pockets 
 * Manchester United 
-* Mega lo Mania 
 * Menace 
 * Midwinter 
 * Monkey Island 2: LeChuck's Revenge 
-* Moonstone: A Hard Days Knight 
-* New Year Lemmings 1991/92 
-* The New Zealand Story 
-* North & South 
 * Oh No! More Lemmings 
 * Pac-Land 
 * Paperboy 
 * Parasol Stars: The Story of Rainbow Islands II 
 * PGA Tour Golf 
-* Pinball Fantasies  
-* Pinball Illusions 
 * Pinball Mania 
 * Pinball Prelude  
 * Pipe Mania 
 * Pirates! Gold 
-* Populous 
 * Power Drift 
 * Prince of Persia 
 * Push-Over 
-* Putty 
-* Putty Squad 
 * Railroad Tycoon 
-* Rainbow Islands 
 * Rainbow Warrior 
 * Rally Championships  
 * Rampage 
 * Rampart 
 * Red Heat 
-* Rick Dangerous 
-* Rick Dangerous II 
-* Rise of the Robots  
+* Rise of the Robots (for historical interest- this is *terrible*)
 * Road Blasters 
 * Roadkill 
-* RoboCop 
 * RoboCop 2 
 * RoboCop 3 
 * Rod Land 
 * Rogue Trooper 
-* Ruff 'n' Tumble 
 * The Running Man 
 * S.T.U.N. Runner 
 * Second Samurai  
-* The Secret of Monkey Island 
-* Sensible World of Soccer '96/'97 
-* The Settlers 
 * Shadow Fighter  
 * Shadow of the Beast 
 * Shufflepuck Cafe 
 * Silkworm 
-* Sim City 
 * Sim City 2000 
 * Skidmarks 
 * Slam Tilt 
@@ -178,23 +124,14 @@ draft = false
 * Space Hulk 
 * Spy vs. Spy 
 * Stardust 
-* Super Skidmarks 
 * Super Space Invaders 
-* Super Stardust 
-* Super Stardust (CD32)
 * Superfrog 
-* SWIV 
-* Syndicate 
 * Test Drive II: The Duel 
 * Theme Park  
-* Turrican 
 * Turrican II: The Final Fight 
 * Turrican 3 
-* UFO: Enemy Unknown 
-* UFO: Enemy Unknown  
 * The Untouchables 
 * Virus 
-* Vroom 
 * Walker 
 * Wing Commander 
 * Wizball 
@@ -202,4 +139,3 @@ draft = false
 * Wolfchild 
 * World Circuit 
 * Zeewolf 
-* Zeewolf 2: Wild Justice 
