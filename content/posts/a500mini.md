@@ -29,13 +29,21 @@ The [A500 mini](https://retrogames.biz/products/thea500-mini) is here. Much has 
 ### Worth a look
 
 * ATR: All Terrain Racing
+    * This is kind of fun for two players. It's a top down racer, basically. I am kind of a sucker for them so you may think it's rubbish for all I know
 * California Games
+    * Very hard, like so many old school games, but silly and fun and very playable. It's a bit confusing what you're supposed to do, you may wish to have a [read](https://www.lemonamiga.com/games/docs.php?id=275) or [watch](https://www.youtube.com/watch?v=KYrSL3WQJf8) of some guides.
 * Paradroid 90
+    * I've never actually played this before, but it's pretty fun and the music is awesome (famously so, I believe). It's not totally obvious exactly how you play, you may wish to consult [a guide](https://www.lemonamiga.com/games/docs.php?id=1194)
 * Another World
+    * This is quite a [seminal game](https://en.wikipedia.org/wiki/Another_World_(video_game)#Legacy). It's a platform puzzley type thing, very evocative and beautiful. Not really my genre to be honest but it is great and it inspired such luminaries as [Hideo Kajima](https://en.wikipedia.org/wiki/Hideo_Kojima)
 * Arcade Pool
+    * This is just a pool game, playing variants of US and UK pool. Not revolutionary but a solid, playable game with good physics
 
 ### Don't bother
 
-Battle Chess
-Zool: Ninja Of The ”Nth” Dimension
-Kick Off 2
+* Battle Chess
+    * Chess with silly animations of the pieces. Seemed pretty cool all those years ago, now it seems silly. If you want to play chess though, it will do that, it's just surely there's a better way on your phone in this day and age?
+* Zool: Ninja Of The ”Nth” Dimension
+    * Amiga's attempt at a Mario/ Sonic type mascot, this is a fast paced platformer. Surprisingly bad
+* Kick Off 2
+    * Always controversial, some people loved it, some people hated it, some people loved to hate it. I used to enjoy playing this game with my brother back in the day but it's unplayable garbage by today's standards. Awful
