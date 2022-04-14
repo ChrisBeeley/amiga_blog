@@ -38,6 +38,8 @@ The [A500 mini](https://retrogames.biz/products/thea500-mini) is here. Much has 
     * This is quite a [seminal game](https://en.wikipedia.org/wiki/Another_World_(video_game)#Legacy). It's a platform puzzley type thing, very evocative and beautiful. Not really my genre to be honest but it is great and it inspired such luminaries as [Hideo Kajima](https://en.wikipedia.org/wiki/Hideo_Kojima)
 * Arcade Pool
     * This is just a pool game, playing variants of US and UK pool. Not revolutionary but a solid, playable game with good physics
+* Super Cars II
+    * Top down racing with shooting of rockets, mines etc. Much more fun in 2 player mode and definitely worth a look if you have two players
 
 ### Don't bother
 

@@ -19,7 +19,6 @@ draft = false
 * Balance of Power: Geopolitics in the Nuclear Age 
 * Barbarian: The Ultimate Warrior 
 * Battle Isle 
-* Battle Squadron 
 * Benefactor 
 * Bill's Tomato Game 
 * Blood Money 
@@ -114,7 +113,6 @@ draft = false
 * Shadow Fighter  
 * Shadow of the Beast 
 * Shufflepuck Cafe 
-* Silkworm 
 * Sim City 2000 
 * Skidmarks 
 * Slam Tilt 
@@ -128,8 +126,6 @@ draft = false
 * Superfrog 
 * Test Drive II: The Duel 
 * Theme Park  
-* Turrican II: The Final Fight 
-* Turrican 3 
 * The Untouchables 
 * Virus 
 * Walker 
@@ -138,4 +134,5 @@ draft = false
 * Wizkid 
 * Wolfchild 
 * World Circuit 
+* Xenon II
 * Zeewolf 

@@ -45,6 +45,7 @@ LEGAL DISCLAIMER and [link to download files](http://www.whdownload.com/index.ph
 * Turrican 
 
 ### Honourable mentions
+* Battle Squadron 
 * Beneath a Steel Sky 
 * Cabal 
 * Fire & Ice 
@@ -69,7 +70,10 @@ LEGAL DISCLAIMER and [link to download files](http://www.whdownload.com/index.ph
 * Ruff 'n' Tumble 
 * The Secret of Monkey Island 
 * The Settlers 
+* Silkworm 
 * Syndicate 
+* Turrican II: The Final Fight 
+* Turrican 3 
 * UFO: Enemy Unknown  
 * Vroom 
 * Zeewolf 2: Wild Justice 
