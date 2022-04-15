@@ -110,6 +110,7 @@ draft = false
 * The Running Man 
 * S.T.U.N. Runner 
 * Second Samurai  
+* Sensible Golf
 * Shadow Fighter  
 * Shadow of the Beast 
 * Shufflepuck Cafe 
