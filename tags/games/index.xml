@@ -6,7 +6,103 @@
     <description>Recent content in games on Amiga blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Apr 2022 04:22:00 +0100</lastBuildDate><atom:link href="https://chrisbeeley.github.io/amiga_blog/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 May 2022 17:06:09 +0100</lastBuildDate><atom:link href="https://chrisbeeley.github.io/amiga_blog/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retro Games</title>
+      <link>https://chrisbeeley.github.io/amiga_blog/posts/retro-games/</link>
+      <pubDate>Thu, 05 May 2022 17:06:09 +0100</pubDate>
+      
+      <guid>https://chrisbeeley.github.io/amiga_blog/posts/retro-games/</guid>
+      <description>Retro games I&amp;rsquo;m off work recovering from surgery at the moment and during that time my interest in retro games has deepened quite a bit. I&amp;rsquo;ve spent a long time with the Amiga mini and cataloguing old classic games on there and I&amp;rsquo;ve also spent time setting up Retro arch on my Linux box and Emudeck on my Steam Deck.
+At first I was interested because of the history of games.</description>
+      <content>&lt;h1 id=&#34;retro-games&#34;&gt;Retro games&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m off work recovering from surgery at the moment and during that time my interest in retro games has deepened quite a bit. I&amp;rsquo;ve spent a long time with the &lt;a href=&#34;https://chrisbeeley.github.io/amiga_blog/posts/a500mini/&#34;&gt;Amiga mini and cataloguing old classic games on there&lt;/a&gt; and I&amp;rsquo;ve also spent time setting up &lt;a href=&#34;https://www.retroarch.com/&#34;&gt;Retro arch&lt;/a&gt; on my Linux box and &lt;a href=&#34;https://www.emudeck.com/&#34;&gt;Emudeck&lt;/a&gt; on my Steam Deck.&lt;/p&gt;
+&lt;p&gt;At first I was interested because of the history of games. It&amp;rsquo;s really interesting to see how they&amp;rsquo;ve developed over time, and I always find it fascinating when new genres emerge that were possible on old hardware but just nobody thought of it. You couldn&amp;rsquo;t make a bombastic game like Call of Duty on a 48K Spectrum, but you could have made a survival game, in the vein of &lt;a href=&#34;https://en.wikipedia.org/wiki/Don%27t_Starve&#34;&gt;Don&amp;rsquo;t Starve&lt;/a&gt;. Nobody thought of it. Or maybe they did, and I haven&amp;rsquo;t heard of it, and the genre lay dormant through the 16 + 32 bit years only to reemerge later, which is kind of interesting in itself. I&amp;rsquo;ve been reading &lt;a href=&#34;https://en.wikipedia.org/wiki/1001_Video_Games_You_Must_Play_Before_You_Die&#34;&gt;1001 videogames to play before you die&lt;/a&gt; which I love because it&amp;rsquo;s in chronological order, and it&amp;rsquo;s just really interesting to see the artform evolve over time. Ditto the excellent &lt;a href=&#34;https://www.bitmapbooks.com/products/commodore-amiga-a-visual-commpendium&#34;&gt;Amiga&lt;/a&gt; and &lt;a href=&#34;https://www.bitmapbooks.com/products/commodore-amiga-a-visual-commpendium&#34;&gt;SNES&lt;/a&gt; Bitmap books, which are absolutely beautiful, also in chronological order, and you can see how things changed even within one platform.&lt;/p&gt;
+&lt;p&gt;Over time I realised that part of the fun is making everything work. I remember when I was a kid with my Amiga you&amp;rsquo;d fiddle around with the software until it broke, and then have fun putting it back to how it was before you broke it. It&amp;rsquo;s sort of the same satisfaction I get with my job (data scientist), either taking something that doesn&amp;rsquo;t work and making it work, or even, yes sometimes I do break something (like the server) and have to put it right. There is so much to know about emulators, and BIOS&amp;rsquo;s, and scraping game information and I&amp;rsquo;m just sort of immersed in it along with the games themselves- the best Neo Geo games, the evolution of the shooter, the different graphical styles of (say) the Megadrive and SNES.&lt;/p&gt;
+&lt;p&gt;And at the end of it I like to write it all down. I&amp;rsquo;d be amazed if more than five people ever read the words I&amp;rsquo;m typing right now, but I&amp;rsquo;m really not writing to be read. I don&amp;rsquo;t ever feel like I&amp;rsquo;ve understood something properly until I&amp;rsquo;ve written it down, I&amp;rsquo;m the same at work- I like to catalogue and codify everything and then just stick it on the internet in case it helps someone else.&lt;/p&gt;
+&lt;p&gt;So I may pivot this blog to &amp;ldquo;Amigas and retro games&amp;rdquo;, perhaps, I hardly want separate blogs about each, and spend some time talking about the history and evolution of games as well as how to play them with modern hardware (one day I shall treat myself to a &lt;a href=&#34;https://polymega.com/&#34;&gt;Polymega&lt;/a&gt;, no doubt, but that day has not come yet). In any case, this post serves as a very long winded introduction to a post I&amp;rsquo;ve already decided to produce, all about the &lt;a href=&#34;https://chrisbeeley.github.io/amiga_blog/posts/c64-special/&#34;&gt;C64 mini&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>C64 Special</title>
+      <link>https://chrisbeeley.github.io/amiga_blog/posts/c64-special/</link>
+      <pubDate>Thu, 05 May 2022 16:57:27 +0100</pubDate>
+      
+      <guid>https://chrisbeeley.github.io/amiga_blog/posts/c64-special/</guid>
+      <description>C64 special I bought a mini C64 recently, I confess mainly because it comes with a joystick and I wanted one to play Sensi on my mini Amiga. Joysticks are not cheap and I think I picked up the C64 and the joystick for about £45 which means the C64 was effectively around £15. I have actually never in my life touched a real Commodore 64 and I have never played any games on one in any shape or form and so I thought it would be interesting to play them absolutely cold with no nostalgia.</description>
+      <content>&lt;h1 id=&#34;c64-special&#34;&gt;C64 special&lt;/h1&gt;
+&lt;p&gt;I bought a &lt;a href=&#34;https://retrogames.biz/products/thec64-mini/&#34;&gt;mini C64&lt;/a&gt; recently, I confess mainly because it comes with a joystick and I wanted one to play Sensi on my mini Amiga. Joysticks are not cheap and I think I picked up the C64 and the joystick for about £45 which means the C64 was effectively around £15. I have actually never in my life touched a real Commodore 64 and I have never played any games on one in any shape or form and so I thought it would be interesting to play them absolutely cold with no nostalgia. Sure, I love Alien Breed on the Amiga, but is that because I had fun playing it 30 years ago? This seemed like a good test. There is something like 64 games on there so I hardly think I&amp;rsquo;m going to play and write up all of them, so I&amp;rsquo;ll go through alphabetically, play each one, and keep going with and write up the ones I find interesting.&lt;/p&gt;
+&lt;p&gt;To get me started, here is a complete list, which I will annotate as I go.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AlleyKat&lt;/li&gt;
+&lt;li&gt;Anarchy&lt;/li&gt;
+&lt;li&gt;Armalyte: Competition Edition&lt;/li&gt;
+&lt;li&gt;Avenger&lt;/li&gt;
+&lt;li&gt;Battle Valley&lt;/li&gt;
+&lt;li&gt;Boulder Dash&lt;/li&gt;
+&lt;li&gt;Bounder&lt;/li&gt;
+&lt;li&gt;California Games&lt;/li&gt;
+&lt;li&gt;Chip&amp;rsquo;s Challenge&lt;/li&gt;
+&lt;li&gt;Confuzion&lt;/li&gt;
+&lt;li&gt;Creatures&lt;/li&gt;
+&lt;li&gt;Cyberdyne Warrior&lt;/li&gt;
+&lt;li&gt;Cybernoid: The Fighting Machine&lt;/li&gt;
+&lt;li&gt;Cybernoid II: The Revenge&lt;/li&gt;
+&lt;li&gt;Deflektor, Everyone&amp;rsquo;s A Wally&lt;/li&gt;
+&lt;li&gt;Firelord&lt;/li&gt;
+&lt;li&gt;Gribbly&amp;rsquo;s Day Out&lt;/li&gt;
+&lt;li&gt;Hawkeye&lt;/li&gt;
+&lt;li&gt;Heartland&lt;/li&gt;
+&lt;li&gt;Herobotix&lt;/li&gt;
+&lt;li&gt;Highway Encounter&lt;/li&gt;
+&lt;li&gt;Hunter&amp;rsquo;s Moon&lt;/li&gt;
+&lt;li&gt;Hysteria&lt;/li&gt;
+&lt;li&gt;Impossible Mission&lt;/li&gt;
+&lt;li&gt;Impossible Mission II&lt;/li&gt;
+&lt;li&gt;IO&lt;/li&gt;
+&lt;li&gt;Jumpman&lt;/li&gt;
+&lt;li&gt;Mega Apocalypse&lt;/li&gt;
+&lt;li&gt;Mission A.D&lt;/li&gt;
+&lt;li&gt;Monty Mole&lt;/li&gt;
+&lt;li&gt;Monty on the Run&lt;/li&gt;
+&lt;li&gt;Nebulus&lt;/li&gt;
+&lt;li&gt;Netherworld&lt;/li&gt;
+&lt;li&gt;Nobby the Aardvark&lt;/li&gt;
+&lt;li&gt;Nodes Of Yesod&lt;/li&gt;
+&lt;li&gt;Paradroid&lt;/li&gt;
+&lt;li&gt;Pitstop II&lt;/li&gt;
+&lt;li&gt;Rana Rama&lt;/li&gt;
+&lt;li&gt;Robin Of The Wood&lt;/li&gt;
+&lt;li&gt;Rubicon&lt;/li&gt;
+&lt;li&gt;Skate Crazy&lt;/li&gt;
+&lt;li&gt;Skool Daze&lt;/li&gt;
+&lt;li&gt;Snare&lt;/li&gt;
+&lt;li&gt;Speedball&lt;/li&gt;
+&lt;li&gt;Speedball II: Brutal Deluxe&lt;/li&gt;
+&lt;li&gt;Spindizzy&lt;/li&gt;
+&lt;li&gt;Star Paws&lt;/li&gt;
+&lt;li&gt;Steel&lt;/li&gt;
+&lt;li&gt;Street Sports Baseball&lt;/li&gt;
+&lt;li&gt;Summer Games II&lt;/li&gt;
+&lt;li&gt;Super Cycle&lt;/li&gt;
+&lt;li&gt;Temple of Apshai Trilogy&lt;/li&gt;
+&lt;li&gt;The Arc Of Yesod&lt;/li&gt;
+&lt;li&gt;Thing on a Spring&lt;/li&gt;
+&lt;li&gt;Thing Bounces Back&lt;/li&gt;
+&lt;li&gt;Trailblazer&lt;/li&gt;
+&lt;li&gt;Cosmic Causeway: Trailblazer II&lt;/li&gt;
+&lt;li&gt;Uchi Mata&lt;/li&gt;
+&lt;li&gt;Uridium&lt;/li&gt;
+&lt;li&gt;Who Dares Wins II&lt;/li&gt;
+&lt;li&gt;Winter Games&lt;/li&gt;
+&lt;li&gt;World Games&lt;/li&gt;
+&lt;li&gt;Zynaps&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;hellip;WIP&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Best of the rest WHDload games</title>
       <link>https://chrisbeeley.github.io/amiga_blog/posts/therestwhdload/</link>

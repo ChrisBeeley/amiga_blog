@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://chrisbeeley.github.io/amiga_blog/</loc>
+    <lastmod>2022-05-05T17:06:09+01:00</lastmod>
+  </url><url>
+    <loc>https://chrisbeeley.github.io/amiga_blog/tags/games/</loc>
+    <lastmod>2022-05-05T17:06:09+01:00</lastmod>
+  </url><url>
+    <loc>https://chrisbeeley.github.io/amiga_blog/posts/</loc>
+    <lastmod>2022-05-05T17:06:09+01:00</lastmod>
+  </url><url>
+    <loc>https://chrisbeeley.github.io/amiga_blog/tags/retro/</loc>
+    <lastmod>2022-05-05T17:06:09+01:00</lastmod>
+  </url><url>
+    <loc>https://chrisbeeley.github.io/amiga_blog/posts/retro-games/</loc>
+    <lastmod>2022-05-05T17:06:09+01:00</lastmod>
+  </url><url>
+    <loc>https://chrisbeeley.github.io/amiga_blog/tags/</loc>
+    <lastmod>2022-05-05T17:06:09+01:00</lastmod>
+  </url><url>
+    <loc>https://chrisbeeley.github.io/amiga_blog/tags/c64/</loc>
+    <lastmod>2022-05-05T16:57:27+01:00</lastmod>
+  </url><url>
+    <loc>https://chrisbeeley.github.io/amiga_blog/posts/c64-special/</loc>
+    <lastmod>2022-05-05T16:57:27+01:00</lastmod>
+  </url><url>
     <loc>https://chrisbeeley.github.io/amiga_blog/tags/a500-mini/</loc>
     <lastmod>2022-04-13T04:22:00+01:00</lastmod>
   </url><url>
-    <loc>https://chrisbeeley.github.io/amiga_blog/</loc>
-    <lastmod>2022-04-13T04:22:00+01:00</lastmod>
-  </url><url>
     <loc>https://chrisbeeley.github.io/amiga_blog/posts/therestwhdload/</loc>
-    <lastmod>2022-04-13T04:22:00+01:00</lastmod>
-  </url><url>
-    <loc>https://chrisbeeley.github.io/amiga_blog/tags/games/</loc>
-    <lastmod>2022-04-13T04:22:00+01:00</lastmod>
-  </url><url>
-    <loc>https://chrisbeeley.github.io/amiga_blog/posts/</loc>
-    <lastmod>2022-04-13T04:22:00+01:00</lastmod>
-  </url><url>
-    <loc>https://chrisbeeley.github.io/amiga_blog/tags/</loc>
     <lastmod>2022-04-13T04:22:00+01:00</lastmod>
   </url><url>
     <loc>https://chrisbeeley.github.io/amiga_blog/tags/whdload/</loc>
