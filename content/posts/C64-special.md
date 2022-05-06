@@ -16,6 +16,7 @@ I bought a [mini C64](https://retrogames.biz/products/thec64-mini/) recently, I 
 To get me started, here is a complete list, which I will annotate as I go.
 
 * AlleyKat
+    * This is pretty good! It's like a cross between a top down racing game and a shoot 'em up. You can fly higher and lower to go below and above the obstacles, and make sure you collect the little "E"s because that gives you enough energy to complete the race. My only criticism so far is that it's not always easy to tell what you can fly over harmlessly and what will kill you, but I'm going to play a bit more and see if I can figure it out.
 * Anarchy
 * Armalyte: Competition Edition
 * Avenger
