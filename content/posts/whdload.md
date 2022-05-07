@@ -7,8 +7,6 @@ showFullContent = false
 draft = false
 +++
 
-## The best WHDload games IMHO
-
 The [A500 mini](https://retrogames.biz/products/thea500-mini/) has finally arrived. I think enough ink has been spilled on the unit itself (as well as whatever you spill when you make YouTube videos) but suffice to say I have one, it's beautiful and easy to use, and it has some [cool games](https://retrogames.biz/games/thea500-mini/) on it. I've written [a post]({{< ref "a500mini.md" >}}) on the built in games that come with it, so go read that if you want to know more about the games that come with it. 
 
 There are lots of great games on the Amiga that were arcade conversions or otherwise licensed from other platforms. I'm going to avoid including them for the most part (you already know if you like Bubble Bobble) but I'm going to include one or two where the Amiga version was particularly celebrated or brilliant in some way. 

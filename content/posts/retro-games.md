@@ -9,8 +9,6 @@ description = ""
 showFullContent = false
 +++
 
-# Retro games
-
 I'm off work recovering from surgery at the moment and during that time my interest in retro games has deepened quite a bit. I've spent a long time with the [Amiga mini and cataloguing old classic games on there]({{< ref "posts/a500mini.md" >}}) and I've also spent time setting up [Retro arch](https://www.retroarch.com/) on my Linux box and [Emudeck](https://www.emudeck.com/) on my Steam Deck.
 
 At first I was interested because of the history of games. It's really interesting to see how they've developed over time, and I always find it fascinating when new genres emerge that were possible on old hardware but just nobody thought of it. You couldn't make a bombastic game like Call of Duty on a 48K Spectrum, but you could have made a survival game, in the vein of [Don't Starve](https://en.wikipedia.org/wiki/Don%27t_Starve). Nobody thought of it. Or maybe they did, and I haven't heard of it, and the genre lay dormant through the 16 + 32 bit years only to reemerge later, which is kind of interesting in itself. I've been reading [1001 videogames to play before you die](https://en.wikipedia.org/wiki/1001_Video_Games_You_Must_Play_Before_You_Die) which I love because it's in chronological order, and it's just really interesting to see the artform evolve over time. Ditto the excellent [Amiga](https://www.bitmapbooks.com/products/commodore-amiga-a-visual-commpendium) and [SNES](https://www.bitmapbooks.com/products/commodore-amiga-a-visual-commpendium) Bitmap books, which are absolutely beautiful, also in chronological order, and you can see how things changed even within one platform.
